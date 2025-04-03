@@ -7,7 +7,7 @@ const Header = ({ setShowBookingForm, setIsMenuOpen, isMenuOpen }) => {
     <header className="header">
       <div className="header-container">
         <div className="logo-container">
-          <img src="./logo1.png" className="logo-icon" />
+          <img src="./logo2.png" className="logo-icon" />
           <span className="logo-text">CYPEX Pest Control</span>
         </div>
         <nav className="desktop-nav">

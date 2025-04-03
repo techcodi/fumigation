@@ -173,8 +173,8 @@ input {
 }
 
 .logo-icon {
-  width: 7rem;
-  height: 5rem;
+  width: 8rem;
+  height: 8rem;
 }
 
 .logo-text {
@@ -771,6 +771,11 @@ input {
   font-size: 1.125rem;
   margin-bottom: 1.5rem;
 }
+.testimonial-card img {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50%;
+}
 
 .testimonial-author {
   font-weight: 700;
@@ -780,7 +785,10 @@ input {
 .testimonial-role {
   color: var(--primary-color);
 }
-
+.testimony-star {
+  font-size: 1.125rem;
+  color: gold;
+}
 /* Modal Styles */
 .modal-overlay {
   position: fixed;
@@ -962,7 +970,7 @@ input {
 }
 
 .footer-grid {
-  display: flex;
+  display: grid;
   gap: 2rem;
   align-items: center;
 }
