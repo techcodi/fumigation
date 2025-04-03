@@ -6,7 +6,7 @@ const Services = ({ setShowBookingForm }) => {
       title: "Residential Fumigation",
       icon: "home",
       description: "Complete home protection against all types of pests",
-      price: "From $299",
+      price: "Custom Quote",
     },
     {
       title: "Commercial Solutions",
@@ -19,7 +19,7 @@ const Services = ({ setShowBookingForm }) => {
       title: "Emergency Service",
       icon: "bolt",
       description: "24/7 rapid response for urgent pest situations",
-      price: "From $399",
+      price: "Custom Quote",
     },
   ];
 

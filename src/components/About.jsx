@@ -51,7 +51,7 @@ const About = ({ setShowBookingForm, setShowContactForm }) => {
           </div>
           <div className="about-image-container">
             <img
-              src="https://public.readdy.ai/ai/img_res/78028ea047a1ab94a86d058f7b02ff1b.jpg"
+              src="./about.jpeg"
               alt="SafeGuard Pest Control Team"
               className="about-image"
             />
