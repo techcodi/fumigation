@@ -1,7 +1,7 @@
 /* Base Styles */
 :root {
-  --primary-color: #2563eb;
-  --primary-hover: #1d4ed8;
+  --primary-color: #0f9d58;
+  --primary-hover: #2e7d32;
   --secondary-color: #ffffff;
   --text-color: #334155;
   --light-text: #64748b;
@@ -277,7 +277,11 @@ input {
 .hero-section {
   padding-top: 5rem;
   position: relative;
-  background: linear-gradient(to right, var(--blue-900), var(--blue-700));
+  background: linear-gradient(
+    to right,
+    var(--primary-color),
+    var(--primary-color)
+  );
   min-height: 37.5rem;
 }
 
