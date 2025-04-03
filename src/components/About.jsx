@@ -105,7 +105,7 @@ const About = ({ setShowBookingForm, setShowContactForm }) => {
               >
                 Contact Us
               </button>
-              <a href="tel:1-800-SAFEGUARD" className="cta-secondary-button">
+              <a href="tel:+234 9047180219" className="cta-secondary-button">
                 <i className="fas fa-phone-alt phone-icon"></i>
                 Call Us
               </a>
